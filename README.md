@@ -1,1 +1,1 @@
-# vue-vuex-router-ssr
+# vue-ssr-webpack
